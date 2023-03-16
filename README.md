@@ -1,5 +1,7 @@
 # 타이타닉 생존자 예측
 
+![image](https://user-images.githubusercontent.com/104770890/225526667-2bf88d37-6c22-46dd-aa3e-dae4afeba8cc.png)
+
 ### # 데이터 전처리
 
 #### 1. 결측치 처리
