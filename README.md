@@ -1,6 +1,6 @@
 # 타이타닉 생존자 예측
 
-### 데이터 전처리
+### # 데이터 전처리
 
 #### 1. 결측치 처리
 - train, test 데이터에서 Cabin은 결측치 값이 너무 방대하여 처리에서 제외
@@ -17,7 +17,7 @@
 - 성별(LabelEncoder)
 - 승선항(OneHotEncoder)
 
-### 모델링
+### # 모델링
 - 로지스틱 회귀
 - 의사결정 나무(criterion = 'entropy', max_depth = 1, random_state = 0)
 - 랜덤 포레스트(n_estimators = 8, random_state = 0)
